@@ -51,6 +51,18 @@ p {
   margin-top: 20px;
 }
 
+.btn:hover {
+  background-color: #ffb812;
+}
+
+.fa-brands:hover {
+  color: #60ebf2;
+}
+
+.fab:hover {
+  color: #60ebf2;
+}
+
 a {
   text-align: center;
   padding-top: 25px;
